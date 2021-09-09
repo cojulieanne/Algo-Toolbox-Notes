@@ -7,4 +7,4 @@
 5. Fibonacci Number Again
 6. Last Digit of the Sum of Fibonacci Numbers
 7. Last Digit of the Sum of Fibonacci Number Again
-8. Last Digit of the Sum of Squares of Fibonacci Numbers
+8. Last Digit of the Sum of Squares of Fibonacci Numbers 
